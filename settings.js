@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Akmal
+› Base Ori @Akmal
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -27,8 +27,8 @@ global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'Akmal' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Akmal-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Akmal-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Akmal' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 1000,
 }
 
 //—————「 Set Image 」—————//
